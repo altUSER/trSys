@@ -3,7 +3,7 @@ from requests import get
 import time
 
 ##set
-host = 'localhost'
+host = '192.168.43.160'
 num = 1
 ##
 g = ''
